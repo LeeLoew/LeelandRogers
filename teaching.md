@@ -11,6 +11,7 @@ subtitle: Classes I've served as instructor of record
 - Cognition
 
 - [Link to research](https://leeloew.github.io/research/)
+- [Link to test page](https://leeloew.github.io/testpage/)
 
 ### My story
 
