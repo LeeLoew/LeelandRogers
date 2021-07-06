@@ -10,7 +10,7 @@ subtitle: Classes I've served as instructor of record
 - General Psychology
 - Cognition
 
-
+- [Link to research](https://leeloew.github.io/research/)
 
 ### My story
 
