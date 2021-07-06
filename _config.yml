@@ -15,10 +15,15 @@ author: Leeland Loew Rogers
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+ Research:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Alternate webpage: "https://github.com"
+ Teaching:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+ Other:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
