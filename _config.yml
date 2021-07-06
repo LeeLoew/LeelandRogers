@@ -13,12 +13,11 @@ author: Leeland Loew Rogers
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Explore this website:
-    About Me: "aboutme"
-    Curriculum Vitae: "CV"
-    Research: "research"
-    Teaching: "teaching"
-    Other: "other"
+  About Me: "aboutme"
+  Curriculum Vitae: "CV"
+  Research: "research"
+  Teaching: "teaching"
+  Other: "other"
 
 # --- Logo --- #
 
