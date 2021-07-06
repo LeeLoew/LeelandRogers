@@ -17,10 +17,7 @@ navbar-links:
   Curriculum Vitae: "CV"
   Research: "research"
   Teaching: "teaching"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Alternate webpage: "https://github.com"
+  Other: "other"
 
 # --- Logo --- #
 
