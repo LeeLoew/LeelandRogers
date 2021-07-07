@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Other Projects
+title: Personal
 subtitle: 
 ---
 
 
 
-usability/fda
+Derek, friends, family
 
 ### My story
 
