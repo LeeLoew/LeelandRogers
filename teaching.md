@@ -3,7 +3,7 @@ layout: page
 title: Teaching Philosophy and Practice
 subtitle: 
 ---
-
+<p><span style="color: #e03e2d; font-size: 18pt;"><strong><span style="background-color: #ffffcc;">PAGE UNDER CONSTRUCTION</span></strong></span></p>
 <p>(broader teaching philosophy)</p>
 <p>(Lang examples for prediction, spacing, retrieval, interleaving- psych340)</p>
 <p>&nbsp;</p>
