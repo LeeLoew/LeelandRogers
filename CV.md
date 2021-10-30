@@ -11,7 +11,7 @@ subtitle:
 
   <br/>
 
-  <embed src="assets/img/CV_Leeland_Rogers.pdf" width="500px" height="650px" />
+<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/17T0vWX_PVXUiw-TmdJq9gcm5S5vMAwif/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 </div>
 
 
