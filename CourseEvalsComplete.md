@@ -6,7 +6,7 @@ subtitle: Below are all of the data for my course evaluations in chronological o
  
 Click to choose the course evaluation data you wish to expand.
 
-- [Link to research](https://leeloew.github.io/StatSum2021/)
+- [Statistics [2021 Summer I]](https://leeloew.github.io/StatsSum2021/)
 
 
 
