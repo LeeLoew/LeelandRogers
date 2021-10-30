@@ -11,7 +11,7 @@ subtitle:
 
   <br/>
 
-  <embed src="assets/img/CV_Leeland_Rogers.pdf" type="application/pdf" />
+  <embed src="assets/img/CV_Leeland_Rogers.pdf" width="400px" height="1050px" />
 </div>
 
 
