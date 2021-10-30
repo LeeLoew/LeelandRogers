@@ -8,10 +8,9 @@ subtitle:
 
 <div class="text-center">
  
+<iframe src="https://drive.google.com/file/d/17T0vWX_PVXUiw-TmdJq9gcm5S5vMAwif/preview" width="640" height="480" allow="autoplay"></iframe>
 
-  <br/>
 
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/17T0vWX_PVXUiw-TmdJq9gcm5S5vMAwif/view?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 </div>
 
 
