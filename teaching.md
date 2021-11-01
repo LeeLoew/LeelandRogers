@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Mentorship
+title: Teaching
 subtitle: 
 ---
 
