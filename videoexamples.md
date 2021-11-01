@@ -15,5 +15,5 @@ subtitle:
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/x1rYPR7Sxes" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<li><span style="color: #34495e; font-size: 30pt;"><a style="color: #34495e;" href="https://leeloew.github.io/CourseEvalsComplete/"> <span style="color: #843fa1;"><strong>Click here to access my complete course evaluation data</strong></span> !</a></span></li>
+
 
