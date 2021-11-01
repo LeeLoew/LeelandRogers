@@ -6,8 +6,8 @@ subtitle: Below are all of the data for my course evaluations in chronological o
  
 Click to choose the course evaluation data you wish to expand. This section is currently being updated.
 
-- [Statistics - 2021 Summer I](https://leeloew.github.io/StatsSum2021/)
-
+- [Statistics - 2021 Summer II](https://leeloew.github.io/StatsSum2021/)
+- [General Psychology - 2021 Summer I](https://leeloew.github.io/PsycSum2021/)
 
 
 
