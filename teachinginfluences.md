@@ -1,15 +1,8 @@
 ---
 layout: page
-title: Teaching and Mentorship
-subtitle: 
+title: Teaching Influences
+subtitle: Below are a few resources that have shaped how I approach teaching
 ---
 
 <p>&nbsp;</p>
-<p><span style="font-size: 24pt;">Click the links below for more information relating to my interests in teaching and mentorship!</span></p>
-<ul>
-<p>&nbsp;</p>
-<li><span style="color: #34495e; font-size: 24pt;"><a style="color: #34495e;" href="https://leeloew.github.io/videoexamples/"> <span style="color: #843fa1;"><strong>Click here to access video examples I use for both my online and in-person classes.</strong></span> 
-<p>&nbsp;</p>
-<li><span style="color: #34495e; font-size: 24pt;"><a style="color: #34495e;" href="https://leeloew.github.io/CourseEvalsComplete/"> <span style="color: #843fa1;"><strong>Click here to access my complete course evaluation data.</strong></span> 
-<p>&nbsp;</p>
-<li><span style="color: #34495e; font-size: 24pt;"><a style="color: #34495e;" href="https://leeloew.github.io/teachinginfluences/"> <span style="color: #843fa1;"><strong>Click here to access my complete course evaluation data.</strong></span> 
+
