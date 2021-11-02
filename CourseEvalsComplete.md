@@ -10,5 +10,6 @@ Click to choose the course evaluation data you wish to expand. This section is c
 - [General Psychology - 2021 Summer I](https://leeloew.github.io/PsycSum2021/)
 - [Statistics - 2021 Spring](https://leeloew.github.io/StatsSpring2021/)
 - [General Psychology - 2021 Winter](https://leeloew.github.io/PsycWinter2021/)
-
-
+- [Cognition - 2020 Fall](https://leeloew.github.io/CogFall2020/)
+- [General Psychology - 2020 Summer II](https://leeloew.github.io/PsycSumII2020/)
+- [General Psychology - 2020 Summer I](https://leeloew.github.io/PsycSumI2020/)

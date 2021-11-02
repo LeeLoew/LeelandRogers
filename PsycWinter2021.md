@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2021 Summer II Statistics Course Evaluations
-subtitle: Below are all of the data for my 2021 Summer II Statistics course evaluation
+title: 2021 Winter General Psychology Course Evaluations
+subtitle: Below are all of the data for my 2021 Winter General Psychology course evaluation
 ---
 
 
