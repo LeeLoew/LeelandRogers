@@ -3,8 +3,7 @@ layout: page
 title: 2021 Summer II Statistics Course Evaluations
 subtitle: Below are all of the data for my 2021 Summer II Statistics course evaluation
 ---
- 
-<p>*Overall department mean for the course I taught is available during Spring/Fall semester. This provides a comparison between evaluations for my course and overall evaluations for the course taught by all instructors that semester.</p>
+
 
 <table style="width: 360px;" border="0" width="213" cellspacing="0" cellpadding="0">
     <colgroup>
