@@ -8,3 +8,13 @@ title: About me + memories!
 <p>&nbsp;</p>
 <p>Otherwise, the remainder of the space on this page will be updated to highlight good times with friends, family, and colleagues.</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<img src="{{ 'MeDerek1.jpg' | relative_url }}" alt="Not found" />
+My partner and myself
+<p>&nbsp;</p>
+<img src="{{ 'cats.jpg' | relative_url }}" alt="Not found" />
+The gremlins
+<p>&nbsp;</p>
+<img src="{{ 'VickeryLab1.jpg' | relative_url }}" alt="Not found" />
+Friends and colleagues (and Teddy at the bottom) discussing fMRI analyses - totally not staged at all.
+<p>&nbsp;</p>
