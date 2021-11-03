@@ -7,10 +7,12 @@ subtitle:
 <p>&nbsp;</p>
 
 <p><span style="font-size: 14pt;"><span style="color: #000000;">Quick Links:</span></span></p>
-<p><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/videoexamples/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Examples of videos I've created for online and in-person students</strong></span></a>.
-<p><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CV/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Curriculum Vitae (CV)</strong></span></a>.
-<p><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/teachinginfluences/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Materials that have shaped my teaching philosophy</strong></span></a>.
-<p><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CourseEvalsComplete/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Course evaluation data</strong></span></a>.
+<ul>
+    <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/videoexamples/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Examples of videos I've created for online and in-person students</strong></span></a>.</span></span></li>
+    <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CV/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Curriculum Vitae (CV)</strong></span></a>.</span></span></li>
+    <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/teachinginfluences/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Materials that have shaped my teaching philosophy</strong></span></a>.</span></span></li>
+    <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CourseEvalsComplete/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Course evaluation data</strong></span></a>.</span></span></li>
+</ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-size: 18pt;"><span style="color: #000000;">Sample data and quotes from course evaluations:</span></span></p>
