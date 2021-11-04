@@ -10,11 +10,12 @@ title: About me + memories!
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'MeDerek1.jpg' | relative_url }}" alt="Not found" /></p>
-<p><span style="font-size: 14pt;"> My partner and myself.</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"> My partner and myself.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 14pt;"><img src="{{ 'cats.jpg' | relative_url }}" alt="Not found" /> </span></p>
-<p><span style="font-size: 14pt;">The gremlins.</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'cats.jpg' | relative_url }}" alt="Not found" /></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"> The gremlins.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 14pt;"><img src="{{ 'VickeryLab1.jpg' | relative_url }}" alt="Not found" /> </span></p>
-<p><span style="font-size: 14pt;">Friends and colleagues (and Teddy at the bottom) discussing fMRI analyses - totally not staged at all.</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'VickeryLab1.jpg' | relative_url }}" alt="Not found" /></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">Friends and colleagues (and Teddy at the bottom) discussing</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"> fMRI analyses - totally not staged at all.</span></p>
 <p>&nbsp;</p>
