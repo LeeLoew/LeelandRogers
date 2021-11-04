@@ -9,7 +9,7 @@ title: About me + memories!
 <p><span style="font-size: 14pt;">Otherwise, the remainder of the space on this page will be updated to highlight good times with friends, family, and colleagues.</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span style="font-size: 14pt;"><img src="{{ 'MeDerek1.jpg' | relative_url }}" alt="Not found" /></span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'MeDerek1.jpg' | relative_url }}" alt="Not found" /></p>
 <p><span style="font-size: 14pt;"> My partner and myself.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 14pt;"><img src="{{ 'cats.jpg' | relative_url }}" alt="Not found" /> </span></p>
