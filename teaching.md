@@ -14,8 +14,56 @@ subtitle:
     <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CourseEvalsComplete/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Course evaluation data</strong></span></a>.</span></span></li>
 </ul>
 <p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 24pt;">Featured course evaluation data in comparison to department means.</span></p>
+<table style="width: 640px; height: 447px; margin-left: auto; margin-right: auto;" border="0" width="852" cellspacing="0" cellpadding="0">
+    <colgroup>
+        <col style="width: 253px;" width="391" />
+        <col style="width: 35px;" width="113" />
+        <col style="width: 46px;" span="4" width="87" />
+    </colgroup>
+    <tbody>
+        <tr>
+            <td class="xl63" width="391" height="20"></td>
+            <td class="xl64" colspan="2" width="200"><span style="font-size: 14pt;"><strong>Cognition Fall 2020</strong></span></td>
+            <td class="xl63" width="87"></td>
+            <td class="xl64" colspan="2" width="174"><span style="font-size: 14pt;"><strong>Statistics Spring 2021</strong></span></td>
+        </tr>
+        <tr>
+            <td class="xl63" style="text-align: center;" height="20"><span style="font-size: 18pt;">(Students provide answers using a 5-point scale)</span></td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">Mean for Leeland Rogers' Cognition class</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">Mean across all Cognition classes</span></td>
+            <td class="xl63" style="text-align: center;"></td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">Mean for Leeland Rogers' Statistics class</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">Mean across all Statistics classes</span></td>
+        </tr>
+        <tr>
+            <td class="xl65" style="text-align: center;" height="20">The instructor provided helpful comments about the quality of my writing (choose "Strongly disagree" if class size or the nature of the course prohibited writing assignments or if no feedback was received).</td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.82</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">3.82</span></td>
+            <td class="xl63" style="text-align: center;"></td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.87</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">3.89</span></td>
+        </tr>
+        <tr>
+            <td class="xl65" style="text-align: center;" height="20">The instructor presented material clearly and in a manner which aided learning.</td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.94</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.5</span></td>
+            <td class="xl63" style="text-align: center;"></td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.94</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.36</span></td>
+        </tr>
+        <tr>
+            <td class="xl65" style="text-align: center;" height="20">The instructor used language and behavior that gave opportunity and respect to all groups of students (i.e., sexes, races and other minorities).</td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.97</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.81</span></td>
+            <td class="xl63" style="text-align: center;"></td>
+            <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.97</span></strong></td>
+            <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.74</span></td>
+        </tr>
+    </tbody>
+</table>
 <p>&nbsp;</p>
-<p><span style="font-size: 18pt;"><span style="color: #000000;">Sample data and quotes from course evaluations:</span></span></p>
+<p><span style="font-size: 18pt;"><span style="color: #000000;">Select quotes from recent course evaluations:</span></span></p>
 <p><span style="font-size: 14pt;"><span style="color: #000000;">General Psychology Summer 2021</span></span></p>
 <p><span style="font-size: 12pt;"><span style="color: #000000;">"<em>This instructor was quite possibly the most effective one I have had throughout my entire college education experience. He was ALWAYS accommodating and understanding of various struggles students in the class had, including me- Within the second week of class, many of my own concerns and those shared by my peers were addressed and adjusted to relieve some of the worries we had, especially with it being an online class this semester. I also always got feedback on my writing, as it pertains to the way I wrote my short answers on the exams, and when I would reach out with questions over email, I would get a quick response. I also really enjoyed how the lecture videos were sprinkled with little jokes and a light-hearted presence, but also disclaimers as they pertained to certain information the textbook discussed, but that wasn't entirely inclusive of other information that should be talked about. Overall, I have thoroughly enjoyed the instructor, his calm/caring demeanor, and the inclusivity he promotes of all people.</em>"</span></span></p>
 <p>&nbsp;</p>
