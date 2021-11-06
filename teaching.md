@@ -13,6 +13,7 @@ subtitle:
     <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CourseEvalsComplete/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Course evaluation data</strong></span></a>.</span></span></li>
 </ul>
 <p>&nbsp;</p>
+<<<<<<< HEAD
 <p style="text-align: center;"><span style="font-size: 24pt;">Featured course evaluation data in comparison to department means.</span></p>
 <table style="width: 640px; height: 447px; margin-left: auto; margin-right: auto;" border="0" width="852" cellspacing="0" cellpadding="0">
     <colgroup>
@@ -61,8 +62,10 @@ subtitle:
         </tr>
     </tbody>
 </table>
+=======
+>>>>>>> parent of 287ffdd (Update teaching.md)
 <p>&nbsp;</p>
-<p><span style="font-size: 18pt;"><span style="color: #000000;">Select quotes from recent course evaluations:</span></span></p>
+<p><span style="font-size: 18pt;"><span style="color: #000000;">Sample data and quotes from course evaluations:</span></span></p>
 <p><span style="font-size: 14pt;"><span style="color: #000000;">General Psychology Summer 2021</span></span></p>
 <p><span style="font-size: 12pt;"><span style="color: #000000;">"<em>This instructor was quite possibly the most effective one I have had throughout my entire college education experience. He was ALWAYS accommodating and understanding of various struggles students in the class had, including me- Within the second week of class, many of my own concerns and those shared by my peers were addressed and adjusted to relieve some of the worries we had, especially with it being an online class this semester. I also always got feedback on my writing, as it pertains to the way I wrote my short answers on the exams, and when I would reach out with questions over email, I would get a quick response. I also really enjoyed how the lecture videos were sprinkled with little jokes and a light-hearted presence, but also disclaimers as they pertained to certain information the textbook discussed, but that wasn't entirely inclusive of other information that should be talked about. Overall, I have thoroughly enjoyed the instructor, his calm/caring demeanor, and the inclusivity he promotes of all people.</em>"</span></span></p>
 <p>&nbsp;</p>
