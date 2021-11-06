@@ -5,7 +5,6 @@ subtitle:
 ---
 <p><span style="font-size: 18pt;"><span style="color: #000000;">&nbsp; &nbsp; &nbsp; Over the past year and a half, I've taught Measurement and Statistics, General Psychology, and Cognitive Psychology. Some <a class="inline_disabled" href="https://leeloew.github.io/videoexamples/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>examples of videos I've created for online and in-person students can be found here (link</strong></span></a>). I hope to have the opportunity to prepare new courses in the near future. Details about when these classes were held and how many students were included can be found on my <strong><a class="inline_disabled" style="color: #164b80;" href="https://leeloew.github.io/CV/" target="_blank" rel="noopener noreferrer">curriculum vitae (link)</a></strong>. My approach to course design and instruction is mainly motivated by the combination of cognitive theory and efficacious instructional techniques as well as a constant effort to develop a more equitable and inclusive learning environment. More information on </span><strong><span style="color: #063768;"><a class="inline_disabled" style="color: #063768;" href="https://leeloew.github.io/teachinginfluences/" target="_blank" rel="noopener noreferrer">materials that have shaped my teaching philosophy can be found at this page (link)</a></span></strong><span style="color: #000000;">. </span><span style="color: #000000;">Part of the reason I've become so passionate about teaching is because of many of the things students have written in my course evaluations. I highly encourage you to look at the essay portion of the reviews if you're interested. A </span><strong><span style="color: #063768;"><a class="inline_disabled" style="color: #063768;" href="https://leeloew.github.io/CourseEvalsComplete/" target="_blank" rel="noopener noreferrer">comprehensive webpage containing all my course evaluation data can be found here (link)</a></span></strong><span style="color: #000000;">. Below are some highlights from my course evaluations.</span></span></p>
 <p>&nbsp;</p>
-
 <p><span style="font-size: 14pt;"><span style="color: #000000;">Quick Links:</span></span></p>
 <ul>
     <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/videoexamples/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Examples of videos I've created for online and in-person students</strong></span></a>.</span></span></li>
@@ -24,12 +23,12 @@ subtitle:
     <tbody>
         <tr>
             <td class="xl63" width="391" height="20"></td>
-            <td class="xl64" colspan="2" width="200"><span style="font-size: 14pt;"><strong>Cognition Fall 2020</strong></span></td>
+            <td class="xl64" colspan="2" width="200"><span style="font-size: 14pt;"><strong>Cognition &nbsp; &nbsp; &nbsp;Fall 2020</strong></span></td>
             <td class="xl63" width="87"></td>
             <td class="xl64" colspan="2" width="174"><span style="font-size: 14pt;"><strong>Statistics Spring 2021</strong></span></td>
         </tr>
         <tr>
-            <td class="xl63" style="text-align: center;" height="20"><span style="font-size: 18pt;">(Students provide answers using a 5-point scale)</span></td>
+            <td class="xl63" style="text-align: center;" height="20"><span style="font-size: 10pt;">(Students provide answers using a 5-point scale)</span></td>
             <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">Mean for Leeland Rogers' Cognition class</span></strong></td>
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">Mean across all Cognition classes</span></td>
             <td class="xl63" style="text-align: center;"></td>
@@ -37,7 +36,7 @@ subtitle:
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">Mean across all Statistics classes</span></td>
         </tr>
         <tr>
-            <td class="xl65" style="text-align: center;" height="20">The instructor provided helpful comments about the quality of my writing (choose "Strongly disagree" if class size or the nature of the course prohibited writing assignments or if no feedback was received).</td>
+            <td class="xl65" style="text-align: center;" height="20"><span style="font-size: 10pt;">The instructor provided helpful comments about the quality of my writing (choose "Strongly disagree" if class size or the nature of the course prohibited writing assignments or if no feedback was received).</span></td>
             <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.82</span></strong></td>
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">3.82</span></td>
             <td class="xl63" style="text-align: center;"></td>
@@ -45,7 +44,7 @@ subtitle:
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">3.89</span></td>
         </tr>
         <tr>
-            <td class="xl65" style="text-align: center;" height="20">The instructor presented material clearly and in a manner which aided learning.</td>
+            <td class="xl65" style="text-align: center;" height="20"><span style="font-size: 10pt;">The instructor presented material clearly and in a manner which aided learning.</span></td>
             <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.94</span></strong></td>
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.5</span></td>
             <td class="xl63" style="text-align: center;"></td>
@@ -53,7 +52,7 @@ subtitle:
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.36</span></td>
         </tr>
         <tr>
-            <td class="xl65" style="text-align: center;" height="20">The instructor used language and behavior that gave opportunity and respect to all groups of students (i.e., sexes, races and other minorities).</td>
+            <td class="xl65" style="text-align: center;" height="20"><span style="font-size: 10pt;">The instructor used language and behavior that gave opportunity and respect to all groups of students (i.e., sexes, races and other minorities).</span></td>
             <td class="xl63" style="text-align: center;"><strong><span style="background-color: #bfedd2;">4.97</span></strong></td>
             <td class="xl63" style="text-align: center;"><span style="background-color: #f8cac6;">4.81</span></td>
             <td class="xl63" style="text-align: center;"></td>
