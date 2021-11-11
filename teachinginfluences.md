@@ -12,6 +12,6 @@ Small Teaching by James Lang has had a major influence on my approach to teachin
 <p>&nbsp;</p>
 <img src="{{ 'CritPed.jpg' | relative_url }}" alt="Not found" />
 
-As part of my effort to self-educate and strive for inclusivity in the classroom, I have greatly appriciated The Critical Pedagogy Reader. The insightful perspectives provided within this text has been invaluable to me and my goals to build toward an equitable and inclusive learning environment for my students. 
+As part of my effort to self-educate and strive for inclusivity in the classroom, I have greatly appriciated The Critical Pedagogy Reader. The insightful perspectives provided within this text has been invaluable to me and my goals to build toward an equitable and inclusive learning environment for students. 
 <p>&nbsp;</p>
 
