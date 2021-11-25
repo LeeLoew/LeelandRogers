@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2020 Summer I General Psychology Course Evaluations
-subtitle: Below are all of the data for my 2020 Summer I General Psychology course evaluation
+subtitle: Below are the data for my 2020 Summer I General Psychology course evaluation
 ---
  
 <table style="width: 362px;" border="0" width="213" cellspacing="0" cellpadding="0">

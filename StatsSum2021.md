@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2021 Summer II Statistics Course Evaluations
-subtitle: Below are all of the data for my 2021 Summer II Statistics course evaluation
+subtitle: Below are the data for my 2021 Summer II Statistics course evaluation
 ---
  
 <table style="width: 363px; height: 2812px;" border="0" width="213" cellspacing="0" cellpadding="0">

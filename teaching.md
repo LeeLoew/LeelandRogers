@@ -14,7 +14,7 @@ subtitle:
     <li><span style="font-size: 14pt;"><span style="color: #000000;"><a class="inline_disabled" href="https://leeloew.github.io/CourseEvalsComplete/" target="_blank" rel="noopener noreferrer"><span style="color: #063768;"><strong>Course evaluation data</strong></span></a>.</span></span></li>
 </ul>
 <p>&nbsp;</p>
-<p style="text-align: center;"><span style="font-size: 24pt;">Featured course evaluation data in comparison to department means.</span></p>
+<p style="text-align: center;"><span style="font-size: 24pt;">Featured course evaluation data in comparison to department means</span></p>
 <table style="width: 640px; height: 447px; margin-left: auto; margin-right: auto;" border="0" width="852" cellspacing="0" cellpadding="0">
     <colgroup>
         <col style="width: 253px;" width="391" />

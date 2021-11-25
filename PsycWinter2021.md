@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2021 Winter General Psychology Course Evaluations
-subtitle: Below are all of the data for my 2021 Winter General Psychology course evaluation
+subtitle: Below are the data for my 2021 Winter General Psychology course evaluation
 ---
 
 

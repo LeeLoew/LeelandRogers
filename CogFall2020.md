@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2020 Cognition Fall Course Evaluations
-subtitle: Below are all of the data for my Cognition Fall 2020 course evaluation
+subtitle: Below are the data for my Cognition Fall 2020 course evaluation
 ---
  
 <p>*Overall department mean for the course I taught is available during Spring/Fall semester. This provides a comparison between evaluations for my course and overall evaluations for the course taught by all instructors that semester.</p>
