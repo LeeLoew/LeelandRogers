@@ -15,6 +15,7 @@ subtitle:
 <p style="text-align: center;"><span style="font-size: 14pt; color: #236fa1;">Quiz questions also appear within the video on Canvas using Kaltura.</span></p>
 <p style="text-align: center;"><span style="font-size: 14pt; color: #236fa1;"> Statistics assignments are also accompanied by video guides.</span></p>
 <p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/x1rYPR7Sxes" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HIf_rZJERg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align: center;">&nbsp;</p>
 
 
