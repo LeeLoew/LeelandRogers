@@ -22,3 +22,6 @@ title: About me + memories!
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'VickeryLab2.jpg' | relative_url }}" alt="Not found" /></p>
 <p style="text-align: center;"><span style="font-size: 14pt;">Early days in the Vickery Lab!</span></p>
 <p>&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'B.jpeg' | relative_url }}" alt="Not found" /></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">I'm not on your website?? --Banjit Singh</span></p>
+<p>&nbsp;</p>
