@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me + memories!
-#subtitle: Everything about me and documented good times
+#subtitle: Everything about me and documented good times.
 ---
 <p>&nbsp;</p>
 <p><span style="font-size: 18pt;">My name is Leeland Loew Rogers and I live near Philadelphia, PA with my partner who works as a reading specialist at a local elementary school. I'm passionate about teaching and you can <span style="color: #34495e;"><a style="color: #34495e;" href="https://leeloew.github.io/teaching/">check out my interests in <span style="color: #063768;"><strong>teaching</strong></span>&nbsp;here (link). </a></span>You can learn a little more about <span style="color: #34495e;"><a style="color: #34495e;" href="https://leeloew.github.io/research/">my <span style="color: #3b7bbb;"><strong>research</strong></span> here (link)&nbsp;</a></span>or you can view my <span style="color: #34495e;"><a style="color: #34495e;" href="https://leeloew.github.io/CV/"><span style="color: #164b80;"><strong>curriculum vitae (CV)</strong></span>&nbsp;here (link). </a></span>Information about <span style="color: #34495e;"><a style="color: #34495e;" href="https://leeloew.github.io/other/"><span style="color: #5ca3eb;"><strong>everything else/other</strong></span> projects can be found here (link).</a></span></span></p>
