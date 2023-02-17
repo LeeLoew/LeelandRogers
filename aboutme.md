@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me + memories!
+title: About me
 #subtitle: Everything about me and documented good times
 ---
 <p>&nbsp;</p>
