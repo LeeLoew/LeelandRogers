@@ -6,22 +6,3 @@ title: About me + memories!
 <p>&nbsp;</p>
 <p><span style="font-size: 18pt;"> My name is Leeland Loew Rogers and I live near Philadelphia, PA with my partner who works as a reading specialist at a local elementary school. </a></span>You can learn a little more about <span style="color: #34495e;"><a style="color: #34495e;" href="https://leeloew.github.io/research/">my <span style="color: #3b7bbb;"><strong>research</strong></span> here (link)&nbsp;</a></span>.&nbsp;</span></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 14pt;">Otherwise, the remainder of the space on this page will be updated to highlight good times with friends, family, and colleagues.</span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'MeDerek1.jpg' | relative_url }}" alt="Not found" /></p>
-<p style="text-align: center;"><span style="font-size: 14pt;"> My partner and myself.</span></p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'cats.jpg' | relative_url }}" alt="Not found" /></p>
-<p style="text-align: center;"><span style="font-size: 14pt;"> The gremlins.</span></p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'VickeryLab1.jpg' | relative_url }}" alt="Not found" /></p>
-<p style="text-align: center;"><span style="font-size: 14pt;">Friends and colleagues (and Teddy at the bottom) discussing</span></p>
-<p style="text-align: center;"><span style="font-size: 14pt;"> fMRI analyses - totally not staged at all.</span></p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'VickeryLab2.jpg' | relative_url }}" alt="Not found" /></p>
-<p style="text-align: center;"><span style="font-size: 14pt;">Early days in the Vickery Lab!</span></p>
-<p>&nbsp;</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="{{ 'B.jpeg' | relative_url }}" alt="Not found" /></p>
-<p style="text-align: center;"><span style="font-size: 14pt;">I'm not on your website?? --Banjit Singh</span></p>
-<p>&nbsp;</p>
