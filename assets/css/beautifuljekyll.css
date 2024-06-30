@@ -5,6 +5,107 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
+-------------------------------------------------
+/* Add this at the top of beautifuljekyll.css */
+:root {
+  --main-bg-color: #121212;
+  --text-color: #E0E0E0;
+  --link-color: #4DA8DA;
+  --hover-color: #6FBEF2;
+  --navbar-bg-color: #1A1A1A;
+  --navbar-text-color: #E0E0E0;
+  --footer-bg-color: #1A1A1A;
+  --footer-text-color: #CCCCCC;
+  --code-bg-color: #2A2A2A;
+}
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
+  color: var(--text-color);
+  background-color: var(--main-bg-color);
+}
+
+.navbar-custom {
+  background-color: var(--navbar-bg-color);
+  border-bottom: 1px solid #333333;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: var(--navbar-text-color);
+}
+
+.intro-header .page-heading,
+.intro-header .post-heading {
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+  transition: color 0.3s ease;
+}
+
+a:hover,
+a:focus {
+  color: var(--hover-color);
+  text-decoration: none;
+}
+
+.post-preview a {
+  color: var(--text-color);
+}
+
+.post-preview:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  transition: background-color 0.3s ease;
+}
+
+code {
+  background-color: var(--code-bg-color);
+  color: #E0E0E0;
+}
+
+pre {
+  background-color: var(--code-bg-color);
+  border: 1px solid #444;
+}
+
+footer {
+  background-color: var(--footer-bg-color);
+  color: var(--footer-text-color);
+}
+
+/* Add smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Improve button styles */
+.btn {
+  border-radius: 25px;
+  transition: all 0.3s ease;
+}
+
+/* Add a subtle box shadow to images */
+img {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Improve table styles */
+table {
+  background-color: #1E1E1E;
+  border: 1px solid #333;
+}
+
+table th, table td {
+  border: 1px solid #333;
+}
+
+table tr:nth-child(even) {
+  background-color: #252525;
+}
+-------------------------------------------------
 
 html {
   font-size: 100%
