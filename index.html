@@ -1,10 +1,69 @@
 ---
 layout: home
 title: Leeland Loew Rogers, Ph.D.
-subtitle: Select the dropdown menu for more information- or just select one of the options below.
+subtitle: Select an option below or use the dropdown menu for more information.
 ---
-<ul style="list-style-type: circle;">
-    <li><span style="color: #34495e; font-size: 24pt;"><a style="color: #000000;" href="https://leeloew.github.io/aboutme/">Learn a little more <span style="color: #02182e;"><strong>about me</strong></span>.</a></span></li>
-    <li><span style="color: #34495e; font-size: 24pt;"><a style="color: #000000;" href="https://leeloew.github.io/research/">View more about my <span style="color: #3b7bbb;"><strong>research</strong></span>.</a></span></li>
-</ul>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleeloew.github.io&count_bg=%23E9E9E9&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div class="home-content">
+  <ul class="menu-options">
+    <li>
+      <a href="https://leeloew.github.io/aboutme/" class="menu-link">
+        <span class="menu-text">Learn more</span>
+        <span class="menu-highlight">about me</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://leeloew.github.io/research/" class="menu-link">
+        <span class="menu-text">View my</span>
+        <span class="menu-highlight">research</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="hit-counter">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleeloew.github.io&count_bg=%23333333&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</div>
+
+<style>
+  .home-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+  }
+  .menu-options {
+    list-style-type: none;
+    padding: 0;
+  }
+  .menu-link {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding: 15px 25px;
+    background-color: #1A1A1A;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+  }
+  .menu-link:hover {
+    background-color: #333333;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  .menu-text {
+    color: #E0E0E0;
+  }
+  .menu-highlight {
+    color: #4DA8DA;
+    font-weight: bold;
+  }
+  .hit-counter {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .hit-counter img {
+    border-radius: 4px;
+  }
+</style>

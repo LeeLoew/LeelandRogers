@@ -57,6 +57,10 @@ footer-col: "#1A1A1A"
 footer-text-col: "#CCCCCC"
 footer-link-col: "#4DA8DA"
 
+# Add these new options
+header-text-col: "#FFFFFF"
+subtitle-text-col: "#CCCCCC"
+
 # --- Web Analytics Section --- #
 
 # [Keep your existing analytics settings]
