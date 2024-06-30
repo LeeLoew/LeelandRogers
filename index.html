@@ -1,4 +1,4 @@
----
+----
 layout: home
 title: Leeland Loew Rogers, Ph.D.
 subtitle: Select an option below or use the dropdown menu for more information.
@@ -30,15 +30,17 @@ subtitle: Select an option below or use the dropdown menu for more information.
   .home-content {
     display: flex;
     justify-content: center;
-    align-items: center;
-    min-height: 60vh;
+    align-items: flex-start;
+    min-height: 40vh;
+    padding-top: 50px;  /* Add some top padding */
   }
   .menu-options {
     list-style-type: none;
     padding: 0;
+    text-align: center;  /* Center the list items */
   }
   .menu-link {
-    display: block;
+    display: inline-block;  /* Change to inline-block for centering */
     font-size: 24px;
     margin-bottom: 20px;
     padding: 15px 25px;
@@ -46,6 +48,7 @@ subtitle: Select an option below or use the dropdown menu for more information.
     border-radius: 8px;
     transition: all 0.3s ease;
     text-decoration: none;
+    min-width: 250px;  /* Set a minimum width for consistent button size */
   }
   .menu-link:hover {
     background-color: #333333;
