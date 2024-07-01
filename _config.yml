@@ -18,8 +18,8 @@ navbar-links:
 
 # --- Logo --- #
 
-avatar: "/assets/img/selfie.png"
-round-avatar: true
+#avatar: "/assets/img/selfie.png"
+#round-avatar: true
 
 # --- Footer social media links --- #
 
