@@ -69,8 +69,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     const sendButton = document.getElementById('send-button');
     const statusDiv = document.getElementById('status');
 
-    const API_KEY = 'your-api-key-here'; // Replace with your actual API key
-    const API_URL = 'https://api.openai.com/v1/chat/completions';
+    // Replace this URL with your Heroku app URL, keeping the '/chat' at the end
+    const HEROKU_URL = 'https://secret-hollows-70430-e454f29fffc1.herokuapp.com/';
 
     function addMessage(sender, message) {
         const messageElement = document.createElement('div');
@@ -88,22 +88,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
             statusDiv.textContent = 'ChatGPT is thinking...';
 
             try {
-                const response = await axios.post(API_URL, {
-                    model: 'gpt-3.5-turbo',
-                    messages: [{ role: 'user', content: message }]
-                }, {
-                    headers: {
-                        'Authorization': `Bearer ${API_KEY}`,
-                        'Content-Type': 'application/json'
-                    }
-                });
-
-                const reply = response.data.choices[0].message.content;
+                const response = await axios.post(HEROKU_URL, { message });
+                const reply = response.data.reply;
                 addMessage('ai', reply);
                 statusDiv.textContent = '';
             } catch (error) {
                 console.error('Error:', error);
-                statusDiv.textContent = 'Failed to get a response from ChatGPT.';
+                statusDiv.textContent = 'Failed to get a response from the server.';
             }
         }
     }
