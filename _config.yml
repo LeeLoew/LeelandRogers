@@ -1,4 +1,4 @@
-# # Welcome to Beautiful Jekyll!
+# Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website.
 
 # --- Required options --- #
@@ -15,6 +15,7 @@ navbar-links:
   Explore this website:
    - About Me: "https://leeloew.github.io/aboutme/"
    - Research: "https://leeloew.github.io/research/"
+  ChatGPT Interface: "chatgpt-interface"
 
 # --- Logo --- #
 
